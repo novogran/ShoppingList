@@ -1,4 +1,4 @@
-package com.example.shoppinglist.presentation
+package com.example.shoppinglist.domain
 
 data class ShopItem(
     var id: Int,
